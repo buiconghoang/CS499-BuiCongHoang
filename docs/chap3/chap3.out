@@ -1,0 +1,36 @@
+\BOOKMARK [0][-]{chapter.1}{C S L\375 Thuyt}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Kin thc to\341n v\340 xc sut}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Ma trn}{section.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.1.1}{\320inh ngh\232a}{subsection.1.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.1.2}{Ph\351p cng ma trn}{subsection.1.1.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.1.1.3}{Ph\351p nh\342n ma trn vi ma trn}{subsection.1.1.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.1.1.4}{Ma trn chuyn vi}{subsection.1.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.2}{\320ao h\340m}{section.1.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.1.2.1}{\320inh ngh\232a}{subsection.1.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.1.2.2}{\320ao h\340m ri\352ng}{subsection.1.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.1.2.3}{\320ao h\340m h\340m hp \(Chain rule\)}{subsection.1.1.2}% 11
+\BOOKMARK [2][-]{subsection.1.1.3}{c lng tham s bng cc ai kha d\232}{section.1.1}% 12
+\BOOKMARK [2][-]{subsection.1.1.4}{Mt v\340i phng ph\341p ti u}{section.1.1}% 13
+\BOOKMARK [3][-]{subsubsection.1.1.4.1}{Gradient descent}{subsection.1.1.4}% 14
+\BOOKMARK [3][-]{subsubsection.1.1.4.2}{Gradient descents vi Momentum}{subsection.1.1.4}% 15
+\BOOKMARK [3][-]{subsubsection.1.1.4.3}{RMSprop}{subsection.1.1.4}% 16
+\BOOKMARK [3][-]{subsubsection.1.1.4.4}{Adam}{subsection.1.1.4}% 17
+\BOOKMARK [1][-]{section.1.2}{Mang nron}{chapter.1}% 18
+\BOOKMARK [2][-]{subsection.1.2.1}{\320inh ngh\232a}{section.1.2}% 19
+\BOOKMARK [2][-]{subsection.1.2.2}{C\341c kh\341i nim c ban}{section.1.2}% 20
+\BOOKMARK [2][-]{subsection.1.2.3}{Hun luyn mang}{section.1.2}% 21
+\BOOKMARK [2][-]{subsection.1.2.4}{Cu tao cua mt n-ron}{section.1.2}% 22
+\BOOKMARK [2][-]{subsection.1.2.5}{Cu tr\372c cua mang n-ron}{section.1.2}% 23
+\BOOKMARK [3][-]{subsubsection.1.2.5.1}{Layer}{subsection.1.2.5}% 24
+\BOOKMARK [3][-]{subsubsection.1.2.5.2}{Units}{subsection.1.2.5}% 25
+\BOOKMARK [2][-]{subsection.1.2.6}{H\340m truyn \(activation function\)}{section.1.2}% 26
+\BOOKMARK [3][-]{subsubsection.1.2.6.1}{H\340m ReLU}{subsection.1.2.6}% 27
+\BOOKMARK [3][-]{subsubsection.1.2.6.2}{ H\340m sigmoid}{subsection.1.2.6}% 28
+\BOOKMARK [3][-]{subsubsection.1.2.6.3}{H\340m softmax}{subsection.1.2.6}% 29
+\BOOKMARK [2][-]{subsection.1.2.7}{Mang lan truyn thng}{section.1.2}% 30
+\BOOKMARK [3][-]{subsubsection.1.2.7.1}{V\355 du}{subsection.1.2.7}% 31
+\BOOKMARK [3][-]{subsubsection.1.2.7.2}{ Thut to\341n}{subsection.1.2.7}% 32
+\BOOKMARK [2][-]{subsection.1.2.8}{H\340m mt m\341t v\340 Cross-entropy}{section.1.2}% 33
+\BOOKMARK [3][-]{subsubsection.1.2.8.1}{One-hot encoding}{subsection.1.2.8}% 34
+\BOOKMARK [3][-]{subsubsection.1.2.8.2}{H\340m mt m\341t}{subsection.1.2.8}% 35
+\BOOKMARK [3][-]{subsubsection.1.2.8.3}{Cross-entropy}{subsection.1.2.8}% 36

@@ -1,0 +1,52 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{vietnam}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{indentfirst}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{mathtools}
+\setcounter{secnumdepth}{4} % multi-level   
+%\setcounter{tocdepth}{3}
+
+\usepackage{subfig}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\renewcommand{\listfigurename}{Danh sách hình vẽ}
+\begin{document}
+\input{coverpage/coverpage}
+\thispagestyle{empty}
+\input{header/header}
+\pagenumbering{roman}
+
+%\pagestyle{empty}
+%{
+%  \renewcommand{\thispagestyle}[1]{}
+%  \tableofcontents
+%}
+%\pagestyle{empty}
+%{
+%  \renewcommand{\thispagestyle}[1]{}
+%  \listoffigures
+%}
+\tableofcontents
+\clearpage %\cleardoublepage %for openright
+\listoffigures
+\clearpage %\cleardoublepage %for openright
+\newpage 
+\input{kihieu/kihieu}
+\clearpage
+\pagenumbering{arabic}
+\input{chap2/chap2}
+\input{chap3/chap3}
+\input{chap4/chap4}
+\input{chap5/chap5}
+%
+
+
+\bibliographystyle{ieeetr}
+\bibliography{refs}
+\end{document}

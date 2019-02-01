@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{trafficcolor}
+W.~Ritter, F.~Stein, and R.~Janssen, ``Traffic sign recognition using colour
+  information,'' {\em Mathematical and computer modelling}, vol.~22, no.~4-7,
+  pp.~149--161, 1995.
+
+\bibitem{trafficcolor1}
+Y.~Chen, Y.~Xie, and Y.~Wang, ``Detection and recognition of traffic signs
+  based on hsv vision model and shape features.,'' {\em JCP}, vol.~8, no.~5,
+  pp.~1366--1370, 2013.
+
+\bibitem{trafficcolor3}
+S.~Park and J.~Lee, ``Real time traffic signal recognition using hsi and ycbcr
+  color models and adaboost algorithm,'' {\em Transactions of the Korean
+  Society of Automotive Engineers}, vol.~24, no.~2, pp.~214--224, 2016.
+
+\bibitem{dalal2005histograms}
+N.~Dalal and B.~Triggs, ``Histograms of oriented gradients for human
+  detection,'' in {\em Computer Vision and Pattern Recognition, 2005. CVPR
+  2005. IEEE Computer Society Conference on}, vol.~1, pp.~886--893, IEEE, 2005.
+
+\bibitem{mlcb}
+V.~H. Tiep, ``Machine learning cơ bản,'' 2016.
+
+\bibitem{rmsprop}
+T.~Tieleman and G.~Hinton, ``Lecture 6.5-rmsprop: Divide the gradient by a
+  running average of its recent magnitude,'' {\em COURSERA: Neural networks for
+  machine learning}, vol.~4, no.~2, pp.~26--31, 2012.
+
+\bibitem{kingma2014adam}
+D.~P. Kingma and J.~Ba, ``Adam: A method for stochastic optimization,'' {\em
+  arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{cs231n}
+F.-F. Li, A.~Karpathy, and J.~Johnson, ``Cs231n: Convolutional neural networks
+  for visual recognition 2016,'' {\em Stanford University}, 2016.
+
+\bibitem{srivastava2014dropout}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, and R.~Salakhutdinov,
+  ``Dropout: a simple way to prevent neural networks from overfitting,'' {\em
+  The Journal of Machine Learning Research}, vol.~15, no.~1, pp.~1929--1958,
+  2014.
+
+\bibitem{rcnn}
+R.~B. Girshick, J.~Donahue, T.~Darrell, and J.~Malik, ``Rich feature
+  hierarchies for accurate object detection and semantic segmentation,'' {\em
+  CoRR}, vol.~abs/1311.2524, 2013.
+
+\bibitem{van2011segmentation}
+K.~E. Van~de Sande, J.~R. Uijlings, T.~Gevers, and A.~W. Smeulders,
+  ``Segmentation as selective search for object recognition,'' in {\em Computer
+  Vision (ICCV), 2011 IEEE International Conference on}, pp.~1879--1886, IEEE,
+  2011.
+
+\bibitem{GTSRB}
+J.~Stallkamp, M.~Schlipsing, J.~Salmen, and C.~Igel, ``Man vs. computer:
+  Benchmarking machine learning algorithms for traffic sign recognition,'' {\em
+  Neural Networks}, no.~0, pp.~--, 2012.
+
+\bibitem{darknet13}
+J.~Redmon, ``Darknet: Open source neural networks in c.''
+  \url{http://pjreddie.com/darknet/}, 2013--2016.
+
+\bibitem{drakflow}
+thtrieu, ``Darkflow.'' https://github.com/thtrieu/darkflow, 2017.
+
+\end{thebibliography}
